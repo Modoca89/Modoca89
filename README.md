@@ -3,7 +3,7 @@
   <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg"> 
   <br>
   <br>
-  Data analyst<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RxYmM0Mnd3NW5qbmh1YjF1enI0cWR6MWFmeWRvZW1tcnh1N2RmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" width="28">
+  Data analyst<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RxYmM0Mnd3NW5qbmh1YjF1enI0cWR6MWFmeWRvZW1tcnh1N2RmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" width="28">
 </h2>
 
 
