@@ -56,7 +56,6 @@
 ## Connect with Me:
   
   <p>
-<a href="[https://www.linkedin.com/in/jaiswal4sudeep/](https://www.linkedin.com/in/moises-domínguez-castillo/)"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/moises-domínguez-castillo/"></a>
 </p>
 
