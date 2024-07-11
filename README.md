@@ -3,7 +3,7 @@
   <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg"> 
   <br>
   <br>
-  Hey There! This is Sudeep Jaiswal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Data analyst<img src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" width="28">
 </h2>
 
 
@@ -26,11 +26,9 @@
 
   ## About Me
 <ul>
-  <li> I’m currently working on Android Developement with Flutter. </li>
-  <li> I love to solve Data Structure and Algorithm Problems with C++. </li>
-  <li> I'm a Computer Science Engineering Student (Graduating in 2023). </li>
-  <li> I do VFX Editing (After Effects, Cinema 4d, Blender) in my Free Time. </li>
-  <li> I made some Games in Unity3D Game Engine. </li>
+  <li> Apasionado por resolver problemas relacionados con el análisis de datos</li>
+  <li> 🔭 Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Ingeniero en computación. 💪 </li>
+  <li> Apasionado por los datos, con conocimientos en Python, Tableau, Excel, SQL y DA. Me especializo en el análisis y la visualización de datos para ayudar a las empresas a tomar decisiones informadas. Busco oportunidades para aplicar y expandir mis habilidades en un entorno dinámico y orientado a resultados.</li>
 <ul>
 
 
