@@ -27,32 +27,10 @@
   ## Sobre mí
 <ul>
   <li> Apasionado por resolver problemas relacionados con el análisis de datos</li>
-  <li> 🔭 Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Ingeniero en computación. 💪 </li>
+  <li> Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Ingeniero en computación. 💪 </li>
   <li> Apasionado por los datos, con conocimientos en Python, Tableau, Excel, SQL y DA. Me especializo en el análisis y la visualización de datos para ayudar a las empresas a tomar decisiones informadas. Busco oportunidades para aplicar y expandir mis habilidades en un entorno dinámico y orientado a resultados.</li>
 <ul>
-
-
   
-  ## Contribution Streak
-
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiswal4sudeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal4sudeep&theme=monokai-metallian&hide_border=true"/>
-</p>
-  
-  
-  ## GitHub Statistics
-  
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jaiswal4sudeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal4sudeep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  
-<br/><br/>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
-## Favorite Tools
-
 ### Lenguajes de programación
 
 <p>
