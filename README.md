@@ -11,27 +11,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst" alt="Typing SVG" /></a>
 </p>
 
-
-<p align="center">
-    
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jaiswal4sudeep"/>
-  </a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaiswal4sudeep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  
-</p>
-
-
   ## Sobre mí
 <ul>
   <li> Apasionado por resolver problemas relacionados con el análisis de datos</li>
   <li> Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Ingeniero en computación. 💪 </li>
   <li> Apasionado por los datos, con conocimientos en Python, Tableau, Excel, SQL y DA. Me especializo en el análisis y la visualización de datos para ayudar a las empresas a tomar decisiones informadas. Busco oportunidades para aplicar y expandir mis habilidades en un entorno dinámico y orientado a resultados.</li>
   <li> Contáctame </li>
-  <li> Linkedin:   <a href="https://www.linkedin.com/in/moises-domínguez-castillo/"></li>
-  <li> Correo: <a href="mailto:moises.doca89@gmail.com"></a> </li>
+  <li> Linkedin:   <a href="https://www.linkedin.com/in/moises-domínguez-castillo/"> Moises </a></li>
+  <li> Correo: <a href="mailto:moises.doca89@gmail.com"> Escribeme </a> </li>
 <ul>
   
 ### Lenguajes de programación
