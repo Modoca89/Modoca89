@@ -29,6 +29,9 @@
   <li> Apasionado por resolver problemas relacionados con el análisis de datos</li>
   <li> Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Ingeniero en computación. 💪 </li>
   <li> Apasionado por los datos, con conocimientos en Python, Tableau, Excel, SQL y DA. Me especializo en el análisis y la visualización de datos para ayudar a las empresas a tomar decisiones informadas. Busco oportunidades para aplicar y expandir mis habilidades en un entorno dinámico y orientado a resultados.</li>
+  <li> Contáctame </li>
+  <li> Linkedin:   <a href="https://www.linkedin.com/in/moises-domínguez-castillo/"></li>
+  <li> Correo: <a href="mailto:moises.doca89@gmail.com"></a> </li>
 <ul>
   
 ### Lenguajes de programación
@@ -36,13 +39,6 @@
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### Databases & Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### Software and tools
@@ -53,9 +49,3 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
   
-## Connect with Me:
-  
-  <p>
-<a href="https://www.linkedin.com/in/moises-domínguez-castillo/"></a>
-</p>
-
